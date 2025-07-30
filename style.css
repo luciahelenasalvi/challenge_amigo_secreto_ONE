@@ -15,6 +15,13 @@
     box-sizing: border-box;
 }
 
+/* Estilos de texto na tela - não faz parte do modelo original*/
+h4 {
+    
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
+
 body {
     height: 100vh;
     background-color: var(--color-primary);
