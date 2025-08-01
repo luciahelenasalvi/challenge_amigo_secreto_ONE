@@ -1,0 +1,42 @@
+# Node modules (caso use npm ou yarn)
+node_modules/
+
+# Diretório de build/output (comum em projetos frontend)
+dist/
+build/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente (caso use)
+.env
+.env.local
+.env.*.local
+
+# Cache do npm ou yarn
+.cache/
+.npm/
+.pnpm-store/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de lock (opcional, dependendo se quer versionar ou não)
+package-lock.json
+yarn.lock
+
+# Testes/coverage (caso use)
+coverage/
+*.lcov
+
+# Arquivos de backup temporários
+*.bak
+*.tmp
+*~
