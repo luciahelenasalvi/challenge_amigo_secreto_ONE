@@ -50,3 +50,7 @@ O projeto foi desenvolvido na IDE **VS Code**, que possui integração com a fer
 ### Informações Adicionais
 Poderá ser observado o uso do recurso ***Responsive Voice***. Você também pode encontrar mais informações no arquivo app.js, onde foram feitos comentários. 
 Execute o index.html no seu browser, e divirta-se.
+
+### Vídeo
+Para melhor visualização, sugerimos que faça o download. É rápido. 
+![Video](https://github.com/luciahelenasalvi/imagens_trabalhos/blob/main/video_funcionamento.mp4)
